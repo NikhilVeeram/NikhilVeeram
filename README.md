@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikhilVeeram
-- 👀 I’m interested in C++, Python, Javascript, and a bunch of other coding languages. I also like retro games ig.
+- 👀 I’m interested in C++, Python, Javascript, and a bunch of other coding languages. I also like retro games and analyzing how emulators work.
 - 🌱 I’m currently learning C++ and Javascript.
-- 💞️ I’m looking to collaborate on coding projects as I learn more stuff.
+- 💞️ I’m looking to collaborate on coding projects as I learn more!
 - 📫 Contact me at: nikhilveeram@icloud.com
 
 <!---
