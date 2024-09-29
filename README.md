@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NikhilVeeram, a freshman engineering student at Texas A&M University
+- 👋 Hi, I’m @NikhilVeeram, a sophomore Interdisciplinary Engineering student at Texas A&M University
 - 👀 I’m interested in C++, Python, Javascript, and a bunch of other coding languages. I also like retro games and analyzing how emulators work.
-- 🌱 I’m currently learning C++ and Javascript.
+- 🌱 I’m currently learning how to integrate artificial intelligence libraries into existing and new extracurricular Python projects that I am pursuing.
 - 💞️ I’m looking to collaborate on coding projects as I learn more!
 - 📫 Contact me at: nikhilveeram@tamu.edu
 
